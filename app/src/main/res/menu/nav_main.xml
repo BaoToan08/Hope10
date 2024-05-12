@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
-    <group android:id="@+id/group_trangchu">
-<!--        <item android:title="Trang Chủ"-->
-<!--            android:id="@+id/trangchu"-->
-<!--            android:icon="@drawable/home"/>-->
+<!--    <group android:id="@+id/group_trangchu">-->
+<!--&lt;!&ndash;        <item android:title="Trang Chủ"&ndash;&gt;-->
+<!--&lt;!&ndash;            android:id="@+id/trangchu"&ndash;&gt;-->
+<!--&lt;!&ndash;            android:icon="@drawable/home"/>&ndash;&gt;-->
 
-        <item android:title="Them"
-            android:id="@+id/add"
-            android:icon="@drawable/add"/>
-    </group>
+<!--        <item android:title="Them"-->
+<!--            android:id="@+id/add"-->
+<!--            android:icon="@drawable/add"/>-->
+<!--    </group>-->
 
     <item android:title="Cài đặt">
         <menu>
